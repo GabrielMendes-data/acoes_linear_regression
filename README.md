@@ -1,4 +1,4 @@
-# 📈 Previsão de Preços de Ações do Setor de Proteína e Dólar
+# 📈 Previsão de Preços de Ações
 
 Projeto de Machine Learning e análise exploratória usando dados públicos de mercado financeiro e indicadores econômicos.  
 O objetivo é prever o preço das ações da **JBS**, **Marfrig** e **BRF** (primeiro dia útil do mês) e analisar a relação com o dólar, IBOV, IPCA, exportação de carnes e saldo da balança comercial.
